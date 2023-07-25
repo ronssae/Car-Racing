@@ -233,7 +233,7 @@
             this.PlayAgainButton.FlatAppearance.BorderSize = 0;
             this.PlayAgainButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.PlayAgainButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PlayAgainButton.Location = new System.Drawing.Point(3, 209);
+            this.PlayAgainButton.Location = new System.Drawing.Point(3, 208);
             this.PlayAgainButton.Name = "PlayAgainButton";
             this.PlayAgainButton.Size = new System.Drawing.Size(139, 29);
             this.PlayAgainButton.TabIndex = 1;
