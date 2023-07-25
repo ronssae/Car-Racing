@@ -102,11 +102,11 @@ namespace Car_Racing
 
             if (RoadTrackContinuation.Top > 549)
             {
-                RoadTrackContinuation.Top = -519;
+                RoadTrackContinuation.Top = -549;
             }
             if (RoadTrack.Top > 549)
             {
-                RoadTrack.Top = -519;
+                RoadTrack.Top = -549;
             }
 
             AI_Car1.Top += TrafficSpeed;
